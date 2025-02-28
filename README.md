@@ -8,11 +8,23 @@ Building an interactive dashboard to explore a dataset and create visualizations
 
 # Some Topics Covered
 •	javascript
+
 •	d3.json files
+
 •	plotly
-•	bar chart
-•	bubble chart
-•	dropdown menu
+
+•	building a bar chart in javascript
+
+![bar](Resources/bar_chart.png)
+
+•	building a bubble chart in javascript
+
+![bubble](Resources/bubble_chart.png)
+
+•	building an interactive dropdown menu in javascript
+
+![dropdown](Resources/dropdown_menu.png)
+
 
 ## Getting Started
 1. Install Python on your computer
